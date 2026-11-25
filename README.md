@@ -100,7 +100,7 @@ README.md
  
 ## How to Run
  
-0. System requirement: this project was run locally on Mac’s MPS GPU so notebooks are compatible with Mac system.
+0. System requirement: this project was run locally on Mac’s MPS GPU so notebooks are compatible with MacOS system.
 1. Install the libraries:
 ```
 pip install torch torchvision numpy pandas matplotlib scikit-learn
